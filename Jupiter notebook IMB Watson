@@ -1,2 +1,8 @@
+print "Hello my name is Gautam Rao and I am an aspriing student looking forward to studying data science and seeing how it is used in our everyday lives"
+
+
 variable = (54-5+4)*33/34*6
 print (variable)
+
+value = variable 
+value = 308.6470588235294
