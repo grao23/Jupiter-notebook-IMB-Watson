@@ -1,0 +1,2 @@
+variable = (54-5+4)*33/34*6
+print (variable)
